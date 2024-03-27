@@ -1,3 +1,5 @@
+![image](https://github.com/team-aIdentity/.github/assets/114052845/ad5b19d2-b1d2-4f4d-874f-f04a08ca23bb)
+
 # GitHub 협업 방식 및 규칙:
 ---
 ## !!! 프로젝트는 기본적으로 Private Repository에서 작업하는것이 원칙 !!!
